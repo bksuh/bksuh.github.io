@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Bokeon Suh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Life is like a box of chocolates, you never know what you're gonna get. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
