@@ -13,6 +13,10 @@
 - type: linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/bksuh"
+  
+- type: scholar
+  icon: 'fa-brands fa-google-scholar'
+  url: 'https://scholar.google.com/citations?user=ZawXymQAAAAJ&hl=en'
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
