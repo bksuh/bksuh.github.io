@@ -13,10 +13,14 @@
 - type: linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/bksuh"
-  
+
 - type: scholar
-  icon: 'fa-brands fa-google-scholar'
-  url: 'https://scholar.google.com/citations?user=ZawXymQAAAAJ&hl=en'
+  icon: "fa-brands fa-google-scholar"
+  url: "https://scholar.google.com/citations?user=ZawXymQAAAAJ&hl=en"
+
+- type: orcid
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0009-0007-7653-1608"
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
