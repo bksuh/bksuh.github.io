@@ -1,3 +1,16 @@
+- year: 2026/04
+  title: "What Matters for Real-World Long-Horizon Robot Navigation?: An Experimental Study of Implicit Goals and Sparse Memory"
+  conference: "IFAC World Congress 2026"
+  conference_link: "https://ifac2026.org/"
+  authors: "Bokeon Suh, Hyoseok Ju, Giseop Kim"
+
+- year: 2026/02
+  title: "Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark"
+  conference: "ICRA 2026"
+  conference_link: "https://scalemaster-dataset.github.io/"
+  authors: "Hyoseok Ju, Bokeon Suh, Giseop Kim"
+  paper_link: "https://arxiv.org/pdf/2602.18174"
+
 - year: 2025/10
   title: "Where to Fuse in the VLM Era: A Survey on Integrating Knowledge into Object Goal Navigation"
   conference: "IROS Workshop"
@@ -9,5 +22,5 @@
   title: "Towards Human-Like Instruction Navigation in Real-World"
   conference: "IROS Workshop"
   conference_link: "https://heai-iros25-workshop.github.io/"
-  authors: "Jiseon Kim, Daeun Song, Bokeon Suh, HyoseokJu, Yumin Lee, Xuesu Xiao, Giseop Kim"
+  authors: "Jiseon Kim, Daeun Song, Bokeon Suh, Hyoseok Ju, Yumin Lee, Xuesu Xiao, Giseop Kim"
   paper_link: "https://openreview.net/pdf?id=24CzNQY4Ms"
