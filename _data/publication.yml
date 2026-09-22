@@ -3,6 +3,7 @@
   conference: "IFAC World Congress 2026"
   conference_link: "https://ifac2026.org/"
   authors: "Bokeon Suh, Hyoseok Ju, Giseop Kim"
+  paper_link: "https://team-aprl.github.io/assets/publications/bsuh-long-horizon-navigation-ifac-2026.pdf"
 
 - year: 2026/02
   title: "Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark"
